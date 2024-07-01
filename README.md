@@ -7,10 +7,6 @@ SpamSMSNet is a TensorFlow and Keras-based neural network project for detecting 
 - [Dataset](#dataset)
 - [Preprocessing](#preprocessing)
 - [Model Architecture](#model-architecture)
-- [Training the Model](#training-the-model)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [License](#license)
 
 ## Installation
 
